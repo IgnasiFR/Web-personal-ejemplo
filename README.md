@@ -1,2 +1,2 @@
 # Web-empresa-ejemplo
-Repositorio para almacenar la web que he creado de una empresa ficticea
+Repositorio para almacenar la web ficticea personal que he creado
